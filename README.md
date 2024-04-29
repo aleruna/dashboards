@@ -13,7 +13,6 @@
 ![Image Alt text](/images/avocado.jpg)
 
 <a id="curso"> </a>
-
 <h2>Curso </h2>
 <p style="font:10px"> Base de datos de cartera de capacitaciones ofrecidas por un centro de desarrollo en alimentos.</p></br>
 <p style="font:10px"> Lo mas complejo del trabajo no se encuentra quizas en el dashboard, si no en la generacion de la base a partir de registros no estructurados. Se generaron tres tablas relacionales: capacitaciones, oferta y participantes. Los datos fueron anonimizados, quedando solamente en este repositorio solo las id generados </p>
